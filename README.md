@@ -21,3 +21,8 @@ This project presents a redesigned prototype of the **IRCTC Rail Connect mobile 
 - Lack of visual hierarchy
 
 The new design aims to create a cleaner, more intuitive experience for users by organizing key features clearly across four primary screens: Home, Train List, Passenger Details, and Payment. The goal is to make booking train tickets simpler, faster, and more mobile-friendly.
+
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/620b9fc4-78f5-4c69-adf1-a28ad7d297bb)
